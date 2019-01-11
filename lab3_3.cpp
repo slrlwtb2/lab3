@@ -4,8 +4,8 @@ using namespace std;
 int main(){
 
     double x ,stack , y ;
-    x = 6;
-    while(x<20){
+    x = 2;
+    while(x<70){
     	
 	y= 1/x;
 	stack =stack+y;
